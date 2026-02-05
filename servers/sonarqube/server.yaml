@@ -12,7 +12,7 @@ about:
 source:
   project: https://github.com/SonarSource/sonarqube-mcp-server
   branch: master
-  commit: 6624a7c047c45d6710b1ad28d069ae7ef2451020
+  commit: 908e85185635c7fca908b6bc37aee83c5dc00194
 config:
   description: Configure the connection to SonarQube
   secrets:
