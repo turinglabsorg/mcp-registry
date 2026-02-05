@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/2810941?v=4
 source:
   project: https://github.com/GoogleCloudPlatform/cloud-run-mcp
-  commit: c9c81b06a95c522ed44e7b594130f9ef52b796fe
+  commit: eb34eceaef6b2d1e66ffc8e989686a5b39d13176
 config:
   description: Configure the connection to Google Cloud Run
   env:
